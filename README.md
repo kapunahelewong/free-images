@@ -14,7 +14,7 @@ The images are:
 ![Image of fishbowl](fishbowl-white-bg.png)
 ![Image of lamp](lamp-white-bg.png)
 ![Image of mug](mug-white-bg.png)
-![Image of paintbrush](boombox-white-bg.png)
+![Image of paintbrush](paintbrush-white-bg.png)
 ![Image of teapot](teapot-white-bg.png)
 ![Image of tv](tv-white-bg.png)
 
