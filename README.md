@@ -36,6 +36,8 @@ The images are:
 
 ![Image of tv](tv-white-bg.png)
 
+![Image of phone](phone-white-bg.png)
+
 
 
 I used a [Remarkable](https://remarkable.com/) tablet to draw these and then [Affinity Photo](https://affinity.serif.com/en-gb/photo/) (an superior alternative to PS without an ongoing bill) to color them and export everything.
